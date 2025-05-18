@@ -49,7 +49,6 @@ These changes helped reduce overfitting and made the training more stable.
 ## 📁 Files Included
 
 - `proj1.ipynb` – the complete notebook with all experiments and code  
-- `report.pdf` – short write-up summarizing findings and analysis  
 - Model predictions (`*.npy` files) for evaluation:
   - `bigram_predictions.npy`
   - `trigram_backoff_predictions.npy`
